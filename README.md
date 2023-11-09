@@ -25,8 +25,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=joysuperman&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joysuperman&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=joysuperman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
